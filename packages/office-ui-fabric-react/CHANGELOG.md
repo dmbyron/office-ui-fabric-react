@@ -1,6 +1,17 @@
 # Change Log - office-ui-fabric-react
 
-This log was last generated on Mon, 15 May 2017 10:19:13 GMT and should not be manually modified.
+This log was last generated on Tue, 16 May 2017 10:18:58 GMT and should not be manually modified.
+
+## 2.30.0
+Tue, 16 May 2017 10:18:58 GMT
+
+### Minor changes
+
+- DatePicker: adding a disabled property support.
+
+### Patches
+
+- Adjust styling on menu drop shadows.
 
 ## 2.29.0
 Mon, 15 May 2017 10:19:13 GMT
